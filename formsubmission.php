@@ -67,7 +67,7 @@ if (isset($_POST['submit'])) { //Checks for a POST submission
                 <input type="text" name="input">
             </p>
 
-            <input type="submit" value="REQUEST_METHOD">
+            <input type="submit" value="submit">
         </form>
     </center>
 </body>
