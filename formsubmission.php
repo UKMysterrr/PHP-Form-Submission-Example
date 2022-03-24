@@ -61,7 +61,7 @@ if (isset($_POST['submit'])) { //Checks for a POST submission
 <body>
     <center>
         <h1>Storing Form data in Database</h1>
-        <form action="insert.php" method="post">
+        <form method="post">
 <p>
                 <label for="input">Input</label>
                 <input type="text" name="input">
